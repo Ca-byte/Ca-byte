@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  - :mortar_board: Técnica em Mecatrônica
  - :dart: Buscando desafios em desenvolvimento web e projetos em Python! Só chamar galera! 
  - :book: Estudando HTML | CSS | JAVASCRIPT | NODE.JS | SQL | REACT | DJANGO
- - 💬 Me faça perguntas Vou ficar muito feliz em colaborar!
+ - 💬 Me faça perguntas vou ficar muito feliz em colaborar!
  - :eyes: Aprendendo a usar o Github! :grin:
  - 📫 https://www.linkedin.com/in/caroline-vieira-b827ab37/
  - 📫 Carolinesanvieira@gmail.com
