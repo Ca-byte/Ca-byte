@@ -17,10 +17,13 @@ Here are some ideas to get you started:
 -->
 
 # Aloha, Seja bem vindo!
-![MyGithubtemplate]( )
+![MyGithubTemplate](https://github.com/Ca-byte/Ca-byte/blob/master/MyGithubTemplate.gif )
 
- - 👯 Buscando desafios em desenvolvimento web! Só chamar galera! 
- - 🌱Estudando HTML | CSS | JAVASCRIPT | NODE.JS | SQL | REACT | DJANGO
+
+ - :mortar_board: Técnica em Mecatrônica
+ - :dart: Buscando desafios em desenvolvimento web e projetos em Python! Só chamar galera! 
+ - :book: Estudando HTML | CSS | JAVASCRIPT | NODE.JS | SQL | REACT | DJANGO
  - 💬 Me faça perguntas Vou ficar muito feliz em colaborar!
+ - :eyes: Aprendendo a usar o Github! :grin:
  - 📫 https://www.linkedin.com/in/caroline-vieira-b827ab37/
  - 📫 Carolinesanvieira@gmail.com
