@@ -13,17 +13,19 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Cotton candy was invented by a dentist 🍭.
+
 -->
 
-# Aloha, Seja bem vindo!
-![MyGithubTemplate](https://github.com/Ca-byte/Ca-byte/blob/master/MyGithubTemplate.gif )
+## Howdy, partner!
+### Kafa? Coffee? Café?
+![MyGithubTemplate](https://github.com/Ca-byte/Ca-byte/blob/master/MyGithubTemplate.gif)
 
 
- - :mortar_board: Técnica em Mecatrônica
- - :dart: Buscando desafios em desenvolvimento web e projetos em Python! Só chamar galera! 
- - :book: Estudando HTML | CSS | JAVASCRIPT | REACTJS | REACT NATIVE | 
- - 💬 Me faça perguntas vou ficar muito feliz em colaborar!
- - :eyes: Aprendendo a usar o Github! :grin:
- - 📫 https://www.linkedin.com/in/caroline-vieira-b827ab37/
- - 📫 Carolinesanvieira@gmail.com
+ - :mortar_board: Mechatronics Technician
+ - :dart: - 👯 I’m looking to collaborate on Websites, Python project, actually Let´s automate something!  
+ - :book: I’m currently studying Specializations/full-stack-react [Coursera](https://www.coursera.org/specializations/full-stack-react) 
+ - 💬  Ask me about why I love to code 😄
+ - ⚡ Fun fact: Cotton candy was invented by a dentist 🍭.
+ - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/caroline-vieira-b827ab37/)
+ - 💌 Carolinesanvieira@gmail.com
