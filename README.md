@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
  - :mortar_board: Mechatronics Technician
- - :dart: - 👯 I’m looking to collaborate on Websites, Python project, actually Let´s automate something!  
+ - :dart: - 👯 I’m looking to collaborate on Websites, React Native projects, actually Let´s automate something!  
  - :book: I’m currently studying Specializations/full-stack-react [Coursera](https://www.coursera.org/specializations/full-stack-react) 
  - 💬  Ask me about why I love to code 😄
  - ⚡ Fun fact: Cotton candy was invented by a dentist 🍭.
