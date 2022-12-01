@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 
  - :mortar_board: Mechatronics Technician
- - :dart: - 👯 I’m looking to collaborate on Websites, React Native projects, actually Let´s automate something!  
- - :book: I’m currently studying Specializations/full-stack-react [Coursera](https://www.coursera.org/specializations/full-stack-react) 
+ - :dart: - 👯 I’m looking to collaborate on Websites, React and React Native projects, actually Let´s automate something!  
+ - :book: I’m currently studying ReactJS and React Native at [Rocketseat](https://lp.rocketseat.com.br/ignite) 
  - 💬  Ask me about why I love to code 😄
  - ⚡ Fun fact: Cotton candy was invented by a dentist 🍭.
  - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/caroline-vieira-b827ab37/)
